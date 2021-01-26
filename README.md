@@ -1,0 +1,2 @@
+# AppSeekBar_PesquisaSatisfacao
+ 
