@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">AppSeekBar_PesquisaSatisfacao</string>
+
+    <string-array name="estados">
+        <item>"Tocantins"</item>
+
+    </string-array>
+
+    <string-array name="statesBrazil">
+        <item>"Abreulândia"</item>
+        <item>"Aguiarnópolis"</item>
+        <item>"Aliança do Tocantins"</item>
+        <item>"Almas"</item>
+        <item>"Alvorada"</item>
+        <item>"Ananás"</item>
+        <item>"Angico"</item>
+        <item>"Aparecida do Rio Negro"</item>
+        <item>"Aragominas"</item>
+        <item>"Araguacema"</item>
+        <item>"Araguaçu"</item>
+        <item>"Araguaína"</item>
+        <item>"Araguanã"</item>
+        <item>"Araguatins"</item>
+        <item>"Arapoema"</item>
+        <item>"Arraias"</item>
+        <item>"Augustinópolis"</item>
+        <item>"Aurora do Tocantins"</item>
+        <item>"Axixá do Tocantins"</item>
+        <item>"Babaçulândia"</item>
+        <item>"Bandeirantes do Tocantins"</item>
+        <item>"Barra do Ouro"</item>
+        <item>"Barrolândia"</item>
+        <item>"Bernardo Sayão"</item>
+        <item>"Bom Jesus do Tocantins"</item>
+        <item>"Brasilândia do Tocantins"</item>
+        <item>"Brejinho de Nazaré"</item>
+        <item>"Buriti do Tocantins"</item>
+        <item>"Cachoeirinha"</item>
+        <item>"Campos Lindos"</item>
+        <item>"Cariri do Tocantins"</item>
+        <item>"Carmolândia"</item>
+        <item>"Carrasco Bonito"</item>
+        <item>"Caseara"</item>
+        <item>"Centenário"</item>
+        <item>"Chapada da Natividade"</item>
+        <item>"Chapada de Areia"</item>
+        <item>"Colinas do Tocantins"</item>
+        <item>"Colmeia"</item>
+        <item>"Combinado"</item>
+        <item>"Conceição do Tocantins"</item>
+        <item>"Couto Magalhães"</item>
+        <item>"Cristalândia"</item>
+        <item>"Crixás do Tocantins"</item>
+        <item>"Darcinópolis"</item>
+        <item>"Dianópolis"</item>
+        <item>"Divinópolis do Tocantins"</item>
+        <item>"Dois Irmãos do Tocantins"</item>
+        <item>"Dueré"</item>
+        <item>"Esperantina"</item>
+        <item>"Fátima"</item>
+        <item>"Figueirópolis"</item>
+        <item>"Filadélfia"</item>
+        <item>"Formoso do Araguaia"</item>
+        <item>"Fortaleza do Tabocão"</item>
+        <item>"Goianorte"</item>
+        <item>"Goiatins"</item>
+        <item>"Guaraí"</item>
+        <item>"Gurupi"</item>
+        <item>"Ipueiras"</item>
+        <item>"Itacajá"</item>
+        <item>"Itaguatins"</item>
+        <item>"Itapiratins"</item>
+        <item>"Itaporã do Tocantins"</item>
+        <item>"Jaú do Tocantins"</item>
+        <item>"Juarina"</item>
+        <item>"Lagoa da Confusão"</item>
+        <item>"Lagoa da Tocantins"</item>
+        <item>"Lajeado"</item>
+        <item>"Lavandeira"</item>
+        <item>"Lizarda"</item>
+        <item>"Luzinópolis"</item>
+        <item>"Marianópolis do Tocantins"</item>
+        <item>"Mateiros"</item>
+        <item>"Maurilândia do Tocantins"</item>
+        <item>"Miracema do Tocantins"</item>
+        <item>"Miranorte"</item>
+        <item>" Monte do Carmo"</item>
+        <item>"Monte Santo do Tocantins"</item>
+        <item>"Natividade"</item>
+        <item>"Nazaré"</item>
+        <item>"Nova Olinda"</item>
+        <item>"Nova Rosalândia"</item>
+        <item>"Novo Acordo"</item>
+        <item>"Novo Alegre"</item>
+        <item>"Novo Jardim"</item>
+        <item>"Oliveira de Fátima"</item>
+        <item>"Palmas"</item>
+        <item>"Palmeirante"</item>
+        <item>"Palmeiras do Tocantins"</item>
+        <item>"Palmeirópolis"</item>
+        <item>"Paraíso do Tocantins"</item>
+        <item>"Paranã"</item>
+        <item>"Pau d'Arco"</item>
+        <item>"Pedro Afonso"</item>
+        <item>"Peixe"</item>
+        <item>"Pequizeiro"</item>
+        <item>"Pindorama do Tocantins"</item>
+        <item>"Piraquê"</item>
+        <item>"Pium"</item>
+        <item>"Ponte Alta do Bom Jesus"</item>
+        <item>"Ponte Alta do Tocantins"</item>
+        <item>"Porto Alegre do Tocantins"</item>
+        <item>"Porto Nacional"</item>
+        <item>"Praia Norte"</item>
+        <item>"Presidente Kennedy"</item>
+        <item>"Pugmil"</item>
+        <item>"Recursolândia"</item>
+        <item>"Riachinho"</item>
+        <item>"Rio da Conceição"</item>
+        <item>"Rio dos Bois"</item>
+        <item>"Rio Sono"</item>
+        <item>"Sampaio"</item>
+        <item>"Sandolândia"</item>
+        <item>"Santa Fé do Araguaia"</item>
+        <item>"Santa Maria do Tocantins"</item>
+        <item>"Santa Rita do Tocantins"</item>
+        <item>"Santa Rosa do Tocantins"</item>
+        <item>"Santa Tereza do Tocantins"</item>
+        <item>"Santa Terezinha do Tocantins"</item>
+        <item>"São Bento do Tocantins"</item>
+        <item>"São Félix do Tocantins"</item>
+        <item>"São Miguel do Tocantins"</item>
+        <item>"São Salvador do Tocantins"</item>
+        <item>"São Sebastião do Tocantins"</item>
+        <item>"São Valério"</item>
+        <item>"Silvanópolis"</item>
+        <item>"Sítio Novo do Tocantins"</item>
+        <item>"Sucupira"</item>
+        <item>"Taguatinga"</item>
+        <item>"Taipas do Tocantins"</item>
+        <item>"Talismã"</item>
+        <item>"Tocantínia"</item>
+        <item>"Tocantinópolis"</item>
+        <item>"Tupirama"</item>
+        <item>"Tupiratins"</item>
+        <item>"Wanderlândia"</item>
+        <item>"Xambioá"</item>
+    </string-array>
+
+
+</resources>
